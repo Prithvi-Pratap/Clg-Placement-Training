@@ -1,3 +1,3 @@
-for(int col=1;col<=row;col++){
+  if(row!=1){
             printf("*");
         }
